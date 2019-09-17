@@ -35,11 +35,16 @@ header a:hover {
 /* MAIN */
 
 .cover_images {
+  /* width: 80%; */
+  justify-content: center;
   padding-top: 0.75em;
   list-style-type: none;
   display: grid;
-  grid: 80% / auto auto auto;
+  /* grid-template-columns: 28em 28em 28em; */
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
   row-gap: 2em;
+  justify-items: center;
 }
 
 .cover_images li a img {
