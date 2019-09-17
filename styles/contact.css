@@ -1,0 +1,27 @@
+.contact_me img {
+  float: right;
+  background-color: white;
+  border-radius: 12em;
+  margin-right: 1em;
+  margin-top: 1em;
+}
+
+.contact_me {
+  background-color: #464646;
+}
+
+.contact_methods {
+  margin: 0em 1em 1em 1em;
+  padding: 0.2em;
+}
+
+.contact_methods div {
+  margin: 1em;
+  padding: 2em;
+  width: 40%;
+  background-color: white;
+}
+
+footer {
+  margin-top: 7em;
+}

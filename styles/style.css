@@ -1,0 +1,78 @@
+/* book being reviewed */
+section {
+  width: 80%;
+}
+
+section header h2 {
+  margin: auto;
+  text-align: center;
+  font-style: italic;
+  background-color: #8c8c8c;
+  padding: 3em;
+}
+
+section, section header, section div {
+  background-color: #e2e2dc;
+  margin: auto;
+  padding: 1em;
+}
+
+section header img {
+  float: right;
+  padding: 3em;
+}
+
+section div {
+  align-content: left;
+  clear: left;
+}
+
+.list li {
+  float: left;
+  display: block;
+  padding: 0.75em;
+  margin: 0.2em;
+  background-color: #f5f5f5 ;
+}
+
+section blockquote {
+  clear: left;
+  background-color: #8c8c8c;
+  width: 60%;
+  padding: 3em;
+}
+
+hr {
+  margin: 3em;
+}
+
+/* reviews */
+.reviews_title h2 {
+  background-color: #8c8c8c;
+  text-align: center;
+  padding: 1.5em;
+  margin: 0em;
+}
+
+.article {
+  clear: left;
+  background-color: #e2e2dc;
+  width: 80%;
+  margin: auto;
+  line-height: 150%;
+}
+
+.article header, .article div {
+  background-color: #e2e2dc;
+  padding: 2em;
+  margin: 3em;
+}
+
+.article header {
+  background-color: #8c8c8c;
+  float: right;
+}
+
+.article header h3 {
+  font-style: italic;
+}
