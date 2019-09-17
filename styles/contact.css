@@ -7,7 +7,20 @@
 }
 
 .contact_me {
+  width: 80%;
   background-color: #464646;
+  margin: auto;
+  padding: 1rem;
+}
+
+.contact_me section {
+  width: 80%;
+  background-color: #e2e2dc;
+}
+
+.contact_me div {
+  background-color: #e2e2dc;
+  padding: 1rem;
 }
 
 .contact_methods {
