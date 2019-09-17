@@ -6,20 +6,21 @@ section {
 section header h2 {
   margin: auto;
   text-align: center;
-  font-style: italic;
+  font-size: 2em;
+  font-weight: 800;
   background-color: #8c8c8c;
-  padding: 3em;
+  padding: 3rem;
 }
 
 section, section header, section div {
   background-color: #e2e2dc;
   margin: auto;
-  padding: 1em;
+  padding: 1rem;
 }
 
 section header img {
   float: right;
-  padding: 3em;
+  padding: 3rem;
 }
 
 section div {
@@ -52,6 +53,7 @@ hr {
   text-align: center;
   padding: 1.5em;
   margin: 0em;
+  font-weight: 700;
 }
 
 .article {
